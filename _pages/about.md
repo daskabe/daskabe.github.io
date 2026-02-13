@@ -23,6 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there, My name is Dawit and I am a Full Stack Software Engineer. I am currently looking for new opertunities so feel free to get in touch with me. I am based in the United States and I am available for remote work and willing to relocate for great opportunities. 
+Hi there, My name is Dawit and I am a Full Stack Software Engineer. I am currently looking for new opertunities so feel free to get in touch with me. I am based in the United States and I am available for remote work and willing to relocate for great opportunities.
 
 (updated 2/2026)

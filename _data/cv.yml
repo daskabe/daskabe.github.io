@@ -3,7 +3,7 @@ cv:
   label: Full Stack Software Engineer
   location: Kansas City, KS
   image: ""
-  summary: Full Stack Software Engineer, Entrepreneur and a budding Quant with a passion for building innovative solutions. I have 10+ years of experience in enterprise software development and 2+ years of experience in AI tools first development. These days you will find me working on apps and tools using AI. 
+  summary: Full Stack Software Engineer, Entrepreneur and a budding Quant with a passion for building innovative solutions. I have 10+ years of experience in enterprise software development and 2+ years of experience in AI tools first development. These days you will find me working on apps and tools using AI.
   social_networks:
     - network: X
       username: daskabe
@@ -99,14 +99,12 @@ cv:
         issuer: Amazon Web Services
         icon: fa-solid fa-location-dot
 
-
-
     Projects:
       - name: Most of my project are private because they are trading related and are tied to live accounts. Visit my github profile for open source projects
         url: https://github.com/daskabe?tab=repositories
 
       - name: camera-dashboard-server-pytn
-        summary: python server with real-time multi camera streaming 
+        summary: python server with real-time multi camera streaming
         url: https://github.com/daskabe/camera-dashboard-server-pytn
         highlights:
           - Real-time multi camera streaming
